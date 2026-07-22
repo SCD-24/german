@@ -1,0 +1,6 @@
+machen,
+lernen,
+kochen,
+sagen,
+singen,
+gehen,
